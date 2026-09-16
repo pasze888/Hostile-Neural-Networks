@@ -1,4 +1,7 @@
 # Hostile Neural Networks [![](http://cf.way2muchnoise.eu/hostile-neural-networks.svg)](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) [![](http://cf.way2muchnoise.eu/versions/hostile-neural-networks.svg)](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
+
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Minecraft Forge mod about defeating hostile simulations to produce loot drops.
 
 This mod is based on Deep Mob Learning, and is available for 1.16.5 and upwards.
